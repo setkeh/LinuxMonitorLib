@@ -1,2 +1,4 @@
 language: csharp
 solution: LinuxMonitorLib.sln
+install:
+  - nuget Install-Package Newtonsoft.Json
