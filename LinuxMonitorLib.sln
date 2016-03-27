@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxMonitorLib", "LinuxMonitorLib\LinuxMonitorLib.csproj", "{877E2FA5-AEB7-4D7E-BF32-0A8D0B8AF4BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxMonitorLib.Tests", "LinuxMonitorLib.Tests\LinuxMonitorLib.Tests.csproj", "{73BA59D3-A383-4467-A278-99BAC41D7060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877E2FA5-AEB7-4D7E-BF32-0A8D0B8AF4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877E2FA5-AEB7-4D7E-BF32-0A8D0B8AF4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877E2FA5-AEB7-4D7E-BF32-0A8D0B8AF4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877E2FA5-AEB7-4D7E-BF32-0A8D0B8AF4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BA59D3-A383-4467-A278-99BAC41D7060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BA59D3-A383-4467-A278-99BAC41D7060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BA59D3-A383-4467-A278-99BAC41D7060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BA59D3-A383-4467-A278-99BAC41D7060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
